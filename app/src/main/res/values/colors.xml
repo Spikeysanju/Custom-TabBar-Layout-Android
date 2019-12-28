@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    // light colors
+    //four bg card color
+
+    <color name="trans_green">#7525D366</color>
+    <color name="trans_yellow">#75FFD337</color>
+    <color name="trans_violet">#75082DEF</color>
+    <color name="trans_skyblue">#7508EFE1</color>
+    <color name="trans_red">#75CC0000</color>
+    <color name="trans_turq">#75FF5722</color>
+</resources>
